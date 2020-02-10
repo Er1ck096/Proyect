@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Encabezado1</hl>
+<h2>Encabezado</h2>
+<p>Texto Basico</P>
+
+</body>
+</html>
